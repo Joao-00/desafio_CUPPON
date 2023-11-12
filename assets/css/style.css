@@ -1,0 +1,13 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.letraNormal {
+    font-size: 15px;
+    margin: 0 auto;
+}
+
+.letraUbi {
+    font-size: 12px;
+    margin: 0 auto;
+}
